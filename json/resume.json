@@ -10,7 +10,7 @@
     "head": "/lyb-resume//img/lyb.png"
   },
   "skills": [
-    "熟练掌握 Flex 布局、Grid 布局、Rem 布局、vw布局、媒体查询响应式布局，对其动画特效有深入研究",
+    "熟练掌握 Flex 布局、Grid 布局、Rem 布局、vw 布局、媒体查询响应式布局，对其动画特效有深入研究",
     "熟练掌握 JavaScript 基本语法、DOM 及 BOM 操作、ES6+语法",
     "熟练掌握 Vue3 + Vite + Typescript，以及 Vue 生态：Vue-Router、Pinia",
     "熟练使用 Element UI、Vant UI、Less、Axios，使用 Prettier、ESLint、Stylelint、Cspell 规范代码",
