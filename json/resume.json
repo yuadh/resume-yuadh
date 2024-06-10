@@ -10,33 +10,41 @@
     "head": "/lyb-resume/img/lyb.png"
   },
   "skills": [
-    "熟练掌握 Flex 布局、Grid 布局、Rem 布局、vw 布局、媒体查询响应式布局，对其动画特效有深入研究",
+    "熟练掌握 Flex 布局、Grid 布局、Rem 布局、vw 布局、媒体查询响应式布局，擅长使用动画",
     "熟练掌握 JavaScript 基本语法、DOM 及 BOM 操作、ES6+语法",
     "熟练掌握 Vue3 + Vite + Typescript，以及 Vue 生态：Vue-Router、Pinia",
-    "熟练使用 Element UI、Vant UI、Less、Axios，使用 Prettier、ESLint、Stylelint、Cspell 规范代码",
+    "熟练使用 Element UI、Vant UI、Less、Axios，并使用 Prettier、ESLint、Stylelint、Cspell 规范代码",
     "精通从零开始搭建、独立开发 C 端项目，有 H5 及 PC 与 H5 同时适配经验、原生开发经验"
   ],
   "works": [
-    [
-      {
-        "label": "演示地址",
-        "value": "https://lengyibai.github.io/wztj"
-      },
-      {
-        "label": "仓库地址",
-        "value": "https://github.com/lengyibai/wzry"
-      },
-      {
-        "label": "稀土掘金文章介绍",
-        "value": "https://juejin.cn/post/7373937820177940518"
-      }
-    ],
-    [
-      {
-        "label": "演示地址(热度时期在线人数 600 左右，日活 7000 左右，日充值率 15% 左右，集成代码块及数学函数插件)",
-        "value": "https://cll.lc"
-      }
-    ]
+    {
+      "name": "王者荣耀图鉴",
+      "desc": "独立开发，收集王者荣耀游戏的英雄、皮肤、技能、语音、装备、铭文等资料，支持对数据筛选、排序来获得相关信息。加入了邮箱、铭文搭配、背包、商城、乂宝、夺宝、竞猜活动等功能。",
+      "links": [
+        {
+          "label": "演示地址",
+          "value": "https://lengyibai.github.io/wztj"
+        },
+        {
+          "label": "仓库地址",
+          "value": "https://github.com/lengyibai/wzry"
+        },
+        {
+          "label": "稀土掘金文章介绍",
+          "value": "https://juejin.cn/post/7373937820177940518"
+        }
+      ]
+    },
+    {
+      "name": "QCCQ - AI",
+      "desc": "ChatGPT 起步时期与另一位负责后端的网友合作，从 0-1 设计网站，实现过自定义消息，支持语音及图片消息(因未提供语音、图片资源已被移除)、AI绘画(因热度不高已被移除)，通过 SEE 通信与后端实现流式输出，对接 OpenAI 接口，网站最热时期在线人数 600 左右，日活 7000 左右，日充值率 15% 左右，集成代码块、数学函数插件、图生代码。",
+      "links": [
+        {
+          "label": "演示地址",
+          "value": "https://cll.lc"
+        }
+      ]
+    }
   ],
   "education": {
     "school": "四川天一学院",
@@ -48,7 +56,7 @@
       "company": "成都薇儿丹蒂网络科技有限公司",
       "time": "2023.03 - 2024.02",
       "content": [
-        "负责 H5 游戏的开发与维护",
+        "负责 H5 游戏的开发",
         "负责 PC 端及 H5 游戏大厅的维护",
         "负责制作游戏的推广页和下载页",
         "使用 PxCook 进行测量、切图开发页面",
@@ -59,7 +67,9 @@
       "company": "四川路信通信息科技有限公司(实习)",
       "time": "2022.03 - 2022.08",
       "content": [
-        "负责后台管理系统及道路管理地图的开发",
+        "负责成都软件协会官网的后台管理系统开发，管理用户、机构、文章等内容",
+        "负责用户个人的后台管理系统开发，管理机构成员、活动报名、留言、评论等内容",
+        "负责通过高德地图道路地图管理开发，绘制道路、设置及查询各种标记信息等",
         "使用蓝湖进行测量切图开发页面，通过 Figma 了解操作流程与交互效果"
       ]
     },
@@ -67,7 +77,7 @@
       "company": "成都好邻盟科技有限责任公司(实习)",
       "time": "2021.08 - 2022.01",
       "content": [
-        "负责 App 内 H5 页面及后台管理系统的开发",
+        "负责 H5 喔呵商城开发，根据不同身份访问用户端、商家端、运营端",
         "通过组件化开发提高代码的可复用性",
         "参与讨论、定义整体产品体验及技术方案",
         "配合后端开发人员，完成页面交互及 bug 修复",
